@@ -13,9 +13,9 @@ This project is fully functional console based application developed in Python. 
  
 **API USED**
 
-  *  URL  - https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} (based on city name)
-  *  URL  - https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}  (based on geo coordinates)
-  *  URL  -  https://api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API Key}  (provides weather data 3 hr once in a day for 5 days)
+  *  URL  - https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key} (based on city name)
+  *  URL  - https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API_key}  (based on geo coordinates)
+  *  URL  -  https://api.openweathermap.org/data/2.5/forecast?q={city_name}&appid={API_Key}  (provides weather data 3 hr once in a day for 5 days)
 
 **FEATURES OF WEATHER FORECAST**
 
